@@ -26,21 +26,29 @@ Correct!
 The server and client exchange text-based messages. Below is the format of the messages:
 
 Server → Client:
+
 Sends questions with options:
 
 Q1: What is the main protocol used for web traffic?
+
 a) HTTP
+
 b) FTP
+
 c) SMTP
+
 d) DNS
+
 Enter your answer (a/b/c/d):
 
 Client → Server:
+
 Sends the user's selected option:
 
 a
 
 Server → Client:
+
 Provides feedback:
 
 Correct!
