@@ -1,7 +1,5 @@
 # QuizGame
 
-Overview
-
 This project is a Client-Server Quiz Application built using Java. It demonstrates the use of socket programming and TCP communication to create an interactive quiz game. The server provides quiz questions to the client, evaluates the answers, and calculates the score in real-time.
 
 Client-Server Communication: Implements TCP socket programming for reliable data transfer between the client and server.
