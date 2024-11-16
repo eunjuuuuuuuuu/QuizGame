@@ -12,7 +12,7 @@ Score Tracking: The server calculates and displays the final score at the end of
 Client Output
 
 Q1: What is the main protocol used for web traffic?
-a) HTTP
+a) HTTP \n
 b) FTP
 c) SMTP
 d) DNS
